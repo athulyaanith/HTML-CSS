@@ -394,4 +394,25 @@ border-radius: 10px;
   .menu, .main, .products, .features {
     display: flex;
   }
+.final
+{   
+    margin-top: 30px;
+    height: 300px;
+    width: 100%;
+    background-color:  rgb(134, 246, 246);
+    color: rgb(0, 0, 0);
+    display: flex;
     
+}
+.fin1{
+    margin: 50px;
+
+}
+.fin1 a{
+    text-decoration:none;
+    color: black;
+}
+.down{
+    margin-top: 260px;
+    margin-left:30px;
+}
