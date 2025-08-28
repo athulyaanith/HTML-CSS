@@ -13,7 +13,7 @@ A modern, responsive landing page built using **HTML** and **CSS**. This project
 
 ## Live Demo
 
-[View Live](https://github.com/athulyaanith/HTML-CSS/new)  
+[View Live](https://github.com/athulyaanith/HTML-CSS/blob/main/land.html)  
 *Add your GitHub Pages or Netlify link here*
 
 ---
@@ -34,6 +34,3 @@ A modern, responsive landing page built using **HTML** and **CSS**. This project
 -  Footer section with links or contact info
 
 ---
-
-## 📂 Folder Structure
-
